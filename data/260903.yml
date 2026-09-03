@@ -1,11 +1,13 @@
 about:
-  description: The personal information dashboard for your terminal
+  description:
+  |
+    The personal information dashboard for your terminal
   license: MPL-2.0
   homepage: http://wtfutil.com
   head: bb838c1
   archived: false
   latestVersion: v0.50.0
-  collectedAt: 2026-09-03T05:13:07Z
+  collectedAt: 2026-09-03T22:35:52Z
 timeline:
   created: 2018-03-29
   lastCommit: 2026-07-26
@@ -17,13 +19,13 @@ popularity:
   release: 78
   contributor: 168
   pullRequest: 495
-  issue: 582
+  issue: 583
 language:
   Go: 1137073
   Makefile: 4448
   Go Template: 1837
   Shell: 399
-totalLine: 1143757
+totalBytes: 1143757
 recent:
   last30d:
     since: 2026-08-04
@@ -31,7 +33,7 @@ recent:
     mergedPR: 0
     openPR: 6
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 0
   last90d:
     since: 2026-06-05
@@ -39,7 +41,7 @@ recent:
     mergedPR: 39
     openPR: 50
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 46
   last180d:
     since: 2026-03-07
@@ -47,7 +49,7 @@ recent:
     mergedPR: 63
     openPR: 58
     closedIssue: 2
-    openIssue: 4
+    openIssue: 5
     commit: 68
   last360d:
     since: 2025-09-08
@@ -55,5 +57,5 @@ recent:
     mergedPR: 171
     openPR: 60
     closedIssue: 8
-    openIssue: 11
+    openIssue: 12
     commit: 180
