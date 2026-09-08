@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 23012451,
       "digest": "sha256:880fd191aee3c8dfeb9dbb297d4b384da754dd56dd59e6f49de52ab614551a08",
-      "download_count": 266,
+      "download_count": 267,
       "created_at": "2026-06-30T03:56:07Z",
       "updated_at": "2026-06-30T03:56:09Z",
       "browser_download_url": "https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21310623,
       "digest": "sha256:047fe39dcbd74f81ac424180b2b25a3e6de27aeb69e79bfff64881c8de265256",
-      "download_count": 531,
+      "download_count": 532,
       "created_at": "2026-06-30T03:56:07Z",
       "updated_at": "2026-06-30T03:56:09Z",
       "browser_download_url": "https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22512571,
       "digest": "sha256:448c8903ff6b843028fd5eac07c0f89a0c83dd1158d9b04370d274ac59721dc2",
-      "download_count": 3117,
+      "download_count": 3124,
       "created_at": "2026-06-30T03:56:07Z",
       "updated_at": "2026-06-30T03:56:09Z",
       "browser_download_url": "https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_amd64.tar.gz"
