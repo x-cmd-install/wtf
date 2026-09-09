@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.50.0"
   latestRelease: "v0.50.0"
   latestPrerelease: "0.0.11"
-  collectedAt: 2026-09-09T05:35:53Z
+  collectedAt: 2026-09-09T19:50:41Z
 timeline:
   created: 2018-03-29
   lastCommit: 2026-07-26
@@ -15,8 +15,8 @@ timeline:
   lastRelease: 2026-06-30
   lastPrerelease: 2018-07-12
 popularity:
-  star: 17077
-  watcher: 161
+  star: 17078
+  watcher: 160
   fork: 863
   release: 78
   contributor: 168
@@ -86,7 +86,7 @@ total:
   commit: 3724
 ---
 path: /home/runner/.x-repo/github.com/wtfutil/wtf
-collectedAt: 2026-09-09T05:35:58Z
+collectedAt: 2026-09-09T19:50:57Z
 loc:
   Go:
     code: 35241
