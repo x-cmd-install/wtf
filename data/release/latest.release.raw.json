@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22512571,
       "digest": "sha256:448c8903ff6b843028fd5eac07c0f89a0c83dd1158d9b04370d274ac59721dc2",
-      "download_count": 3247,
+      "download_count": 3260,
       "created_at": "2026-06-30T03:56:07Z",
       "updated_at": "2026-06-30T03:56:09Z",
       "browser_download_url": "https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_amd64.tar.gz"
