@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,079 · **Forks**: 864 · **Open issues**: 583 · **Contributors**: 168
+- **Stars**: 17,080 · **Forks**: 865 · **Open issues**: 583 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1070 · **Open PRs**: 61 · **Closed issues**: 538 · **Open issues**: 45 · **Commits**: 3724
+- **Releases**: 78 · **Merged PRs**: 1070 · **Open PRs**: 62 · **Closed issues**: 538 · **Open issues**: 45 · **Commits**: 3724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-13 | 0 | 22 | 48 | 0 | 3 | 22 |
-| 90d | 2026-06-13 | 1 | 39 | 51 | 0 | 4 | 46 |
-| last180d | 2026-03-15 | 2 | 62 | 57 | 2 | 5 | 62 |
-| 360d | 2025-09-16 | 6 | 170 | 61 | 8 | 11 | 180 |
-| last720d | 2024-09-21 | 11 | 259 | 61 | 19 | 24 | 273 |
+| 30d | 2026-08-13 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-14 | 0 | 22 | 49 | 0 | 3 | 22 |
+| 90d | 2026-06-14 | 1 | 39 | 52 | 0 | 4 | 46 |
+| last180d | 2026-03-16 | 2 | 58 | 56 | 2 | 5 | 62 |
+| 360d | 2025-09-17 | 6 | 170 | 62 | 8 | 11 | 180 |
+| last720d | 2024-09-22 | 11 | 259 | 62 | 19 | 24 | 273 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for wtf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:25:11Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:26:30Z._
