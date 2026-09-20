@@ -4,7 +4,7 @@
 
 The personal information dashboard for your terminal
 
-![wtf](https://repo.x-cmd.io/wtf.svg)
+[![x-cmd/install — wtf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wtf.svg)](https://x-cmd.com/install/wtf)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,092 · **Forks**: 864 · **Open issues**: 583 · **Contributors**: 168
+- **Stars**: 17,095 · **Forks**: 864 · **Open issues**: 583 · **Contributors**: 168
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 19 | 48 | 0 | 3 | 22 |
-| 90d | 2026-06-20 | 1 | 38 | 53 | 0 | 4 | 46 |
-| last180d | 2026-03-22 | 2 | 56 | 57 | 2 | 5 | 62 |
-| 360d | 2025-09-23 | 6 | 170 | 63 | 7 | 11 | 180 |
-| last720d | 2024-09-28 | 11 | 259 | 63 | 19 | 24 | 273 |
+| 30d | 2026-08-21 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 18 | 46 | 0 | 3 | 0 |
+| 90d | 2026-06-22 | 1 | 38 | 53 | 0 | 4 | 29 |
+| last180d | 2026-03-24 | 2 | 56 | 56 | 2 | 5 | 62 |
+| 360d | 2025-09-25 | 6 | 170 | 63 | 6 | 11 | 180 |
+| last720d | 2024-09-30 | 11 | 259 | 63 | 19 | 24 | 273 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for wtf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:44:03Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:51:12Z._
