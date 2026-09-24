@@ -30,8 +30,8 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/21 approved changesets -- score normalized to 0
 - **Security-Policy** (3/10) — security policy file detected
+- **Code-Review** (0/10) — Found 0/21 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,100 · **Forks**: 864 · **Open issues**: 583 · **Contributors**: 168
+- **Stars**: 17,099 · **Forks**: 863 · **Open issues**: 583 · **Contributors**: 168
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-07-25 | 0 | 8 | 41 | 0 | 1 | 0 |
-| 90d | 2026-06-25 | 1 | 37 | 53 | 0 | 4 | 29 |
-| last180d | 2026-03-27 | 2 | 56 | 56 | 2 | 5 | 62 |
-| 360d | 2025-09-28 | 6 | 170 | 63 | 6 | 11 | 180 |
-| last720d | 2024-10-03 | 11 | 259 | 63 | 19 | 24 | 273 |
+| 30d | 2026-08-25 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-26 | 0 | 0 | 14 | 0 | 1 | 0 |
+| 90d | 2026-06-26 | 1 | 37 | 53 | 0 | 4 | 29 |
+| last180d | 2026-03-28 | 2 | 56 | 56 | 2 | 5 | 62 |
+| 360d | 2025-09-29 | 6 | 170 | 63 | 6 | 11 | 180 |
+| last720d | 2024-10-04 | 11 | 259 | 63 | 19 | 24 | 273 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for wtf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:56:26Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:26:06Z._
