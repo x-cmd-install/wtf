@@ -14,24 +14,24 @@ x install wtf
 
 ## Code insight
 
-Total: **35,754** lines of code across **512** files in the top 5 languages.
+Total: **36,009** lines of code across **516** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 35,241 | 2,081 | 7,999 | 500 |
-| Yaml | 355 | 23 | 3 | 8 |
+| Go | 35,495 | 2,094 | 8,043 | 504 |
+| Yaml | 356 | 25 | 2 | 8 |
 | Makefile | 85 | 56 | 30 | 1 |
 | Pan | 65 | 0 | 9 | 2 |
 | Sh | 8 | 1 | 5 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Security-Policy** (3/10) — security policy file detected
-- **Code-Review** (0/10) — Found 0/21 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -42,39 +42,44 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.50.0` (2026-06-30)
-- **Last commit**: 2026-07-26
-- **Assets in release**: 6
+- **Latest**: `v0.51.0` (2026-09-29)
+- **Last commit**: 2026-09-29
+- **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 17,107 · **Forks**: 861 · **Open issues**: 583 · **Contributors**: 168
+- **Stars**: 17,106 · **Forks**: 861 · **Open issues**: 585 · **Contributors**: 169
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1070 · **Open PRs**: 63 · **Closed issues**: 538 · **Open issues**: 45 · **Commits**: 3724
+- **Releases**: 79 · **Merged PRs**: 1086 · **Open PRs**: 50 · **Closed issues**: 538 · **Open issues**: 47 · **Commits**: 3740
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 10 | 0 | 1 | 0 |
-| 90d | 2026-07-01 | 0 | 23 | 51 | 0 | 4 | 22 |
-| last180d | 2026-04-02 | 2 | 54 | 56 | 2 | 5 | 62 |
-| 360d | 2025-10-04 | 6 | 170 | 63 | 6 | 11 | 180 |
-| last720d | 2024-10-09 | 11 | 258 | 63 | 19 | 24 | 273 |
+| 30d | 2026-08-31 | 1 | 6 | 1 | 0 | 3 | 16 |
+| last60d | 2026-08-01 | 1 | 11 | 2 | 0 | 3 | 16 |
+| 90d | 2026-07-02 | 1 | 37 | 40 | 0 | 6 | 38 |
+| last180d | 2026-04-03 | 3 | 70 | 43 | 2 | 7 | 78 |
+| 360d | 2025-10-05 | 7 | 185 | 50 | 6 | 13 | 196 |
+| last720d | 2024-10-10 | 12 | 274 | 50 | 19 | 25 | 289 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wtf_0.50.0_checksums.txt](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_checksums.txt) | 482 B | `other` |
-| [wtf_0.50.0_darwin_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_darwin_amd64.tar.gz) | 21.9 MiB | `native/darwin/x64` |
-| [wtf_0.50.0_darwin_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_darwin_arm64.tar.gz) | 20.3 MiB | `native/darwin/arm64` |
-| [wtf_0.50.0_linux_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_amd64.tar.gz) | 21.5 MiB | `native/linux/x64` |
-| [wtf_0.50.0_linux_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_arm64.tar.gz) | 19.3 MiB | `native/linux/arm64` |
-| [wtf_0.50.0_linux_armv6.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_armv6.tar.gz) | 20.2 MiB | `native/linux/arm` |
+| [tessera--v0.51.0--darwin-amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--darwin-amd64.tar.gz) | 22.2 MiB | `native/darwin/x64` |
+| [tessera--v0.51.0--darwin-arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--darwin-arm64.tar.gz) | 20.6 MiB | `native/darwin/arm64` |
+| [tessera--v0.51.0--linux-amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--linux-amd64.tar.gz) | 21.7 MiB | `native/linux/x64` |
+| [tessera--v0.51.0--linux-arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--linux-arm64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
+| [tessera--v0.51.0--linux-armv7.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--linux-armv7.tar.gz) | 20.4 MiB | `native/linux/arm` |
+| [tessera_0.51.0_checksums.txt](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera_0.51.0_checksums.txt) | 999 B | `other` |
+| [wtf_0.51.0_darwin_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_darwin_amd64.tar.gz) | 22.2 MiB | `native/darwin/x64` |
+| [wtf_0.51.0_darwin_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_darwin_arm64.tar.gz) | 20.6 MiB | `native/darwin/arm64` |
+| [wtf_0.51.0_linux_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_linux_amd64.tar.gz) | 21.7 MiB | `native/linux/x64` |
+| [wtf_0.51.0_linux_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_linux_arm64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
+| [wtf_0.51.0_linux_armv6.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_linux_armv6.tar.gz) | 20.5 MiB | `native/linux/arm` |
 
 ## Improve this data
 
@@ -85,4 +90,4 @@ Install metadata for wtf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:27:49Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:16:36Z._

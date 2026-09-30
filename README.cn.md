@@ -14,24 +14,24 @@ x install wtf
 
 ## 代码洞察
 
-合计: **35,754** 行代码（覆盖前 5 种语言、共 **512** 个文件）。
+合计: **36,009** 行代码（覆盖前 5 种语言、共 **516** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 35,241 | 2,081 | 7,999 | 500 |
-| Yaml | 355 | 23 | 3 | 8 |
+| Go | 35,495 | 2,094 | 8,043 | 504 |
+| Yaml | 356 | 25 | 2 | 8 |
 | Makefile | 85 | 56 | 30 | 1 |
 | Pan | 65 | 0 | 9 | 2 |
 | Sh | 8 | 1 | 5 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Security-Policy** (3/10) — security policy file detected
-- **Code-Review** (0/10) — Found 0/21 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -42,39 +42,44 @@ x install wtf
 
 ## 发布
 
-- **最新版本**: `v0.50.0` (2026-06-30)
-- **最近提交**: 2026-07-26
-- **Release 含资产**: 6 个
+- **最新版本**: `v0.51.0` (2026-09-29)
+- **最近提交**: 2026-09-29
+- **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 17,107 · **Fork**: 861 · **开放 issue**: 583 · **贡献者**: 168
+- **Star**: 17,106 · **Fork**: 861 · **开放 issue**: 585 · **贡献者**: 169
 
 ## 累计统计
 
-- **发布数**: 78 · **已合并 PR**: 1070 · **开放 PR**: 63 · **已关闭 issue**: 538 · **开放 issue**: 45 · **提交数**: 3724
+- **发布数**: 79 · **已合并 PR**: 1086 · **开放 PR**: 50 · **已关闭 issue**: 538 · **开放 issue**: 47 · **提交数**: 3740
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 10 | 0 | 1 | 0 |
-| 90d | 2026-07-01 | 0 | 23 | 51 | 0 | 4 | 22 |
-| last180d | 2026-04-02 | 2 | 54 | 56 | 2 | 5 | 62 |
-| 360d | 2025-10-04 | 6 | 170 | 63 | 6 | 11 | 180 |
-| last720d | 2024-10-09 | 11 | 258 | 63 | 19 | 24 | 273 |
+| 30d | 2026-08-31 | 1 | 6 | 1 | 0 | 3 | 16 |
+| last60d | 2026-08-01 | 1 | 11 | 2 | 0 | 3 | 16 |
+| 90d | 2026-07-02 | 1 | 37 | 40 | 0 | 6 | 38 |
+| last180d | 2026-04-03 | 3 | 70 | 43 | 2 | 7 | 78 |
+| 360d | 2025-10-05 | 7 | 185 | 50 | 6 | 13 | 196 |
+| last720d | 2024-10-10 | 12 | 274 | 50 | 19 | 25 | 289 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wtf_0.50.0_checksums.txt](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_checksums.txt) | 482 B | `other` |
-| [wtf_0.50.0_darwin_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_darwin_amd64.tar.gz) | 21.9 MiB | `native/darwin/x64` |
-| [wtf_0.50.0_darwin_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_darwin_arm64.tar.gz) | 20.3 MiB | `native/darwin/arm64` |
-| [wtf_0.50.0_linux_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_amd64.tar.gz) | 21.5 MiB | `native/linux/x64` |
-| [wtf_0.50.0_linux_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_arm64.tar.gz) | 19.3 MiB | `native/linux/arm64` |
-| [wtf_0.50.0_linux_armv6.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.50.0/wtf_0.50.0_linux_armv6.tar.gz) | 20.2 MiB | `native/linux/arm` |
+| [tessera--v0.51.0--darwin-amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--darwin-amd64.tar.gz) | 22.2 MiB | `native/darwin/x64` |
+| [tessera--v0.51.0--darwin-arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--darwin-arm64.tar.gz) | 20.6 MiB | `native/darwin/arm64` |
+| [tessera--v0.51.0--linux-amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--linux-amd64.tar.gz) | 21.7 MiB | `native/linux/x64` |
+| [tessera--v0.51.0--linux-arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--linux-arm64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
+| [tessera--v0.51.0--linux-armv7.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--linux-armv7.tar.gz) | 20.4 MiB | `native/linux/arm` |
+| [tessera_0.51.0_checksums.txt](https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera_0.51.0_checksums.txt) | 999 B | `other` |
+| [wtf_0.51.0_darwin_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_darwin_amd64.tar.gz) | 22.2 MiB | `native/darwin/x64` |
+| [wtf_0.51.0_darwin_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_darwin_arm64.tar.gz) | 20.6 MiB | `native/darwin/arm64` |
+| [wtf_0.51.0_linux_amd64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_linux_amd64.tar.gz) | 21.7 MiB | `native/linux/x64` |
+| [wtf_0.51.0_linux_arm64.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_linux_arm64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
+| [wtf_0.51.0_linux_armv6.tar.gz](https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_linux_armv6.tar.gz) | 20.5 MiB | `native/linux/arm` |
 
 ## 改进这些数据
 
@@ -85,4 +90,4 @@ wtf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T06:27:50Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:16:37Z._
