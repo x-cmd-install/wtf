@@ -30,8 +30,8 @@ x install wtf
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Security-Policy** (3/10) — security policy file detected
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,7 +48,7 @@ x install wtf
 
 ## 流行度
 
-- **Star**: 17,114 · **Fork**: 863 · **开放 issue**: 585 · **贡献者**: 169
+- **Star**: 17,112 · **Fork**: 863 · **开放 issue**: 585 · **贡献者**: 169
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install wtf
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 5 | 9 | 0 | 2 | 16 |
-| last60d | 2026-08-07 | 1 | 7 | 10 | 0 | 3 | 16 |
-| 90d | 2026-07-08 | 1 | 36 | 45 | 0 | 5 | 38 |
-| last180d | 2026-04-09 | 3 | 69 | 49 | 2 | 7 | 78 |
-| 360d | 2025-10-11 | 7 | 181 | 55 | 6 | 13 | 187 |
-| last720d | 2024-10-16 | 12 | 274 | 55 | 19 | 25 | 289 |
+| 30d | 2026-09-07 | 1 | 5 | 9 | 0 | 2 | 16 |
+| last60d | 2026-08-08 | 1 | 7 | 10 | 0 | 3 | 16 |
+| 90d | 2026-07-09 | 1 | 36 | 45 | 0 | 5 | 38 |
+| last180d | 2026-04-10 | 3 | 69 | 49 | 2 | 7 | 78 |
+| 360d | 2025-10-12 | 7 | 181 | 55 | 6 | 13 | 187 |
+| last720d | 2024-10-17 | 12 | 274 | 55 | 19 | 25 | 289 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ wtf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:09:14Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:38:39Z._
