@@ -30,8 +30,8 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Security-Policy** (3/10) — security policy file detected
 - **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Security-Policy** (3/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,124 · **Forks**: 863 · **Open issues**: 585 · **Contributors**: 169
+- **Stars**: 17,126 · **Forks**: 863 · **Open issues**: 586 · **Contributors**: 169
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1086 · **Open PRs**: 55 · **Closed issues**: 538 · **Open issues**: 47 · **Commits**: 3740
+- **Releases**: 79 · **Merged PRs**: 1086 · **Open PRs**: 55 · **Closed issues**: 538 · **Open issues**: 48 · **Commits**: 3740
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 3 | 8 | 0 | 2 | 16 |
-| last60d | 2026-08-22 | 1 | 7 | 9 | 0 | 3 | 16 |
-| 90d | 2026-07-23 | 1 | 23 | 37 | 0 | 3 | 16 |
-| last180d | 2026-04-24 | 2 | 63 | 49 | 0 | 7 | 67 |
-| 360d | 2025-10-26 | 6 | 167 | 55 | 5 | 13 | 174 |
-| last720d | 2024-10-31 | 12 | 274 | 55 | 19 | 25 | 289 |
+| 30d | 2026-09-22 | 1 | 3 | 9 | 0 | 3 | 16 |
+| last60d | 2026-08-23 | 1 | 7 | 10 | 0 | 4 | 16 |
+| 90d | 2026-07-24 | 1 | 22 | 38 | 0 | 4 | 16 |
+| last180d | 2026-04-25 | 2 | 63 | 49 | 0 | 8 | 67 |
+| 360d | 2025-10-27 | 6 | 167 | 55 | 5 | 14 | 174 |
+| last720d | 2024-11-01 | 12 | 274 | 55 | 19 | 26 | 289 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for wtf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:24:53Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:29:20Z._
