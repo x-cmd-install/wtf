@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 3 | 11 | 0 | 3 | 0 |
-| last60d | 2026-08-27 | 1 | 7 | 12 | 0 | 4 | 16 |
-| 90d | 2026-07-28 | 1 | 14 | 13 | 0 | 4 | 16 |
-| last180d | 2026-04-29 | 2 | 58 | 51 | 0 | 7 | 62 |
-| 360d | 2025-10-31 | 6 | 164 | 57 | 4 | 10 | 167 |
-| last720d | 2024-11-05 | 12 | 274 | 57 | 19 | 26 | 289 |
+| 30d | 2026-09-27 | 1 | 3 | 11 | 0 | 3 | 0 |
+| last60d | 2026-08-28 | 1 | 7 | 12 | 0 | 4 | 16 |
+| 90d | 2026-07-29 | 1 | 11 | 13 | 0 | 4 | 16 |
+| last180d | 2026-04-30 | 2 | 57 | 51 | 0 | 7 | 62 |
+| 360d | 2025-11-01 | 6 | 164 | 57 | 4 | 10 | 167 |
+| last720d | 2024-11-06 | 12 | 274 | 57 | 19 | 26 | 289 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for wtf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:24:25Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:46:29Z._
